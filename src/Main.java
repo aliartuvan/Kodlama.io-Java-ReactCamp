@@ -3,7 +3,7 @@ public class Main {
 
         String lesson1 = "Java";
         String lesson2 = "C#";
-        String lesson3 = "Javascrpit";
+        String lesson3 = "Javascript";
 
 
         Student student1 = new Student(1,"Ali Artuvan","aliartuvan44@gmail.com","123","%x");
